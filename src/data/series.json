@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Dark Waters",
+    "description": "A coastal town harbors dark secrets beneath the surface.",
+    "seasons": 3,
+    "posterUrl": "https://images.pexels.com/photos/1770809/pexels-photo-1770809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "genre": ["Drama", "Mystery"]
+  },
+  {
+    "id": "2",
+    "title": "Future Frontiers",
+    "description": "Exploring the boundaries of human potential in a sci-fi universe.",
+    "seasons": 2,
+    "posterUrl": "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "genre": ["Sci-Fi", "Adventure"]
+  }
+]
